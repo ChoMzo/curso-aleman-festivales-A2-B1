@@ -6,7 +6,7 @@ Bienvenido/a a este curso breve e inmersivo de **iniciación al alemán para his
 
 ## 📚 Accede a los contenidos
 
-- 🎬 [Presentación del curso (reveal.js)](presentacion/index.html)
+- 🎬 [Presentación del curso (reveal.js)](presentacion.html)
 - 📘 [Semana 1: Saludos, presentaciones y frases esenciales](bloque1/semana1.md)
 - 📘 [Semana 2: Orientación y supervivencia urbana](bloque2/semana2.md)
 - 📘 [Semana 3: Comida y vida social](bloque3/semana3.md)
