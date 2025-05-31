@@ -7,14 +7,14 @@ Bienvenido/a a este curso breve e inmersivo de **iniciación al alemán para his
 ## 📚 Accede a los contenidos
 
 - 🎬 [Presentación del curso (reveal.js)](presentacion.html)
-- 📘 [Semana 1: Saludos, presentaciones y frases esenciales](bloque1/semana1.md)
-- 📘 [Semana 2: Orientación y supervivencia urbana](bloque2/semana2.md)
-- 📘 [Semana 3: Comida y vida social](bloque3/semana3.md)
-- 📘 [Semana 4: cultura y recomendaciones](bloque4/semana4.md)
-- 🎮 [Narrativa interactiva (Twine)](narrativa/twine.html)
-- 📘 [Anexos del curso (EPUB)](anexos/anexos.epub)
-- 📝 [Cuaderno de actividades (PDF)](ejercicios/ejercicios.pdf)
-- 🗂️ [Markdown original del curso](anexos/anexos.md)
+- 📘 [Semana 1: Saludos, presentaciones y frases esenciales](semana1.md)
+- 📘 [Semana 2: Orientación y supervivencia urbana](semana2.md)
+- 📘 [Semana 3: Comida y vida social](semana3.md)
+- 📘 [Semana 4: cultura y recomendaciones](semana4.md)
+- 🎮 [Narrativa interactiva (Twine)](twine.html)
+- 📘 [Anexos del curso (EPUB)](anexos.epub)
+- 📝 [Cuaderno de actividades (PDF)](ejercicios.pdf)
+- 🗂️ [Markdown original del curso](anexos.md)
 
 ---
 
